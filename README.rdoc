@@ -1,8 +1,5 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 If you want to run the project on your system please run the cooment in project folder
  $ rake db:migrate
 
